@@ -4,12 +4,12 @@ Este repositorio contiene scripts de automatización para diferentes tareas.
 
 ## Scripts
 
-- autoBackup.sh: Script para hacer backup de directorios a tar.gz
+- manualBackup.sh: Script para hacer backup de directorios a tar.gz
 
 ## Uso
 
 ```bash
-./autoBackup.sh
+./manualBackup.sh
 ```
 
 ## Explicación
